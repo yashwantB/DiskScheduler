@@ -229,7 +229,7 @@ export default function App() {
           font-family: 'Share Tech Mono', monospace;
           text-align: center;
           padding: 40px;
-          opacity: 1; /* Increased base brightness */
+          opacity: 0.9; /* Increased base brightness */
         }
         .empty-icon {
           font-size: 60px;
